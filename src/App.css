@@ -1,0 +1,21 @@
+.App {
+  margin: 5%;
+  text-align: center;
+  display: flex;
+  gap: 100px;
+}
+
+.circle, .div-circle{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+.empty_div {
+  display:flex;
+  border: 1px solid black;
+  min-width: 400px;
+  min-height: 400px;
+}
