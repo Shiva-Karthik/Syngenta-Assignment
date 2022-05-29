@@ -6,7 +6,6 @@ function App() {
   const [emptyDivCircle, setEmptyDivCircle] = useState([]);
   const [loading, setLoading] = useState(true);
   const [text, setText] = useState("");
-  console.log('text:', typeof text)
   let obj = {};
   const colours = useRef([]);
 
