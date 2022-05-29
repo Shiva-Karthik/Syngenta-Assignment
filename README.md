@@ -6,7 +6,7 @@
 - Shoot the circle by entering 1 to 5 in input box.
   <img src="/images/pos1.png"/>
 
-- The entered nth cirle will enter into the empty div.
+- The entered nth circle will enter into the empty div.
   <img src="/images/pos2.png"/>
 
 - After the circle is entered the circles position get reorganised.
