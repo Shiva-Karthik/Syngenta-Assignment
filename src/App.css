@@ -20,7 +20,7 @@
   min-height: 400px;
 }
 
-input[type=text] {
+/* .form>input[type=text] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -29,6 +29,7 @@ input[type=text] {
   outline: none;
 }
 
-input[type=text]:focus {
+.form>input[type=text]:focus {
   background-color: lightblue;
-}
+} */
+
